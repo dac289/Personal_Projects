@@ -1,9 +1,9 @@
 '''
 Created on 06/29/2021
 
-This program is for a Whole Foods Pricing Case Study
+This program is for a Cheese Pricing Case Study
 
-The objective was to sell more cheese, with loosing as little margin as possible
+The objective was to sell more cheese, with losing as little margin as possible
 
 Author: David Cresap
 '''
